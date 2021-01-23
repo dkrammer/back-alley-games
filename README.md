@@ -1,6 +1,6 @@
 # Sibling Story
 
-## back-alley-games
+## Back Alley Games
 
 Game developed for Cmput250 at the U of A, Winter2021.
 
