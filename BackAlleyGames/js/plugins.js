@@ -4,5 +4,8 @@ var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Basic plugin for manipulating important parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
 {"name":"FixedDirectionHorizontal","status":false,"description":"Only allows player to face left or right (even when moving up or down). Example uses Platformer or Brawler/Beat'em Ups.","parameters":{}},
-{"name":"GALV_DiagonalMovement","status":true,"description":"(v.1.5) Just a basic diagonal movement plugin. Written for compatibility with other Galv plugins.","parameters":{"Diagonal Mouse":"false","Diagonal Charset":"false","Diagonal Speed":"90","Block Diagonal":"false"}}
+{"name":"GALV_DiagonalMovement","status":true,"description":"(v.1.5) Just a basic diagonal movement plugin. Written for compatibility with other Galv plugins.","parameters":{"Diagonal Mouse":"false","Diagonal Charset":"false","Diagonal Speed":"90","Block Diagonal":"false"}},
+{"name":"OrangeOverlay","status":true,"description":"v1.1.4 - Adds overlay images to the map <OrangeOverlay>","parameters":{"Organized Folders":"false","Parallax Layer Filename":"par","Ground Layer Filename":"ground","Light Layer Filename":"light","Shadow Layer Filename":"shadow","Light Opacity":"185","Quick Start":"true","Bush Region ID":"7","Fog Switch ID":"1","Light Switch ID":"2","Parallax Switch ID":"3","Shadow Switch ID":"4"}},
+{"name":"Tsukitsune_animatedOverlayAddon","status":true,"description":"| Animated Overlay Addon : Version - 1.0.4 | This plugin adds to the OrangeOverlay plugin, and allows you to animate parallaxes.","parameters":{}},
+{"name":"MBS_MapZoom","status":true,"description":"Makes it possible to zoom in and out the game map                        \r\n\r\n<MBS MapZoom>","parameters":{"Reset on map change":"true","Default zoom":"1.0"}}
 ];
