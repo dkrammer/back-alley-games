@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Official Web Page
  * <http://kdworkshop.net/map-inventory/>
  *

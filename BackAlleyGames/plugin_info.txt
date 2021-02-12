@@ -4,3 +4,7 @@ Tsukitsune_animatedOverlayAddon.js: https://www.dropbox.com/s/ehjuzc7zos8b3tj/Ts
 
 Map Inventory: https://forums.rpgmakerweb.com/index.php?threads/map-inventory-mz-mv-visual-grid-inventory.119167/
 		    https://kdworkshop.net/plugins/map-inventory/
+
+Altimit Movement: https://eclass.srv.ualberta.ca/pluginfile.php/6771664/mod_assign/intro/AltimitMovement.js
+
+OrangeHud: https://forums.rpgmakerweb.com/index.php?threads/orange-hud.47186/
