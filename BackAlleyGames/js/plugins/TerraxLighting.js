@@ -1427,6 +1427,11 @@ Imported.TerraxLighting = true;
 						var dy = $gameMap.displayY();
 						var px = $gamePlayer._realX;
 						var py = $gamePlayer._realY;
+						if (py < 1) {
+							py = 0;
+						} else {
+							py = py - 1;
+						}
 						var pd = $gamePlayer._direction;
 
 						//Graphics.Debug('Screen',pw+" "+ph+" "+dx+" "+dy+" "+px+" "+py);
