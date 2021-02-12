@@ -8,3 +8,5 @@ Map Inventory: https://forums.rpgmakerweb.com/index.php?threads/map-inventory-mz
 Altimit Movement: https://eclass.srv.ualberta.ca/pluginfile.php/6771664/mod_assign/intro/AltimitMovement.js
 
 OrangeHud: https://forums.rpgmakerweb.com/index.php?threads/orange-hud.47186/
+
+TerraxLighting: https://forums.rpgmakerweb.com/index.php?threads/terrax-lighting-system.49339/

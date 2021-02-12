@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":1,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Sara","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"roughsprite","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"sara","traits":[],"initialLevel":1,"maxLevel":1,"name":"Sara","nickname":"","note":"","profile":""}
 ]

@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAIN_APARTMENT","order":1,"parentId":0,"scrollX":832.5,"scrollY":672.75},
-{"id":2,"expanded":false,"name":"TEST_MAP1 - Mould","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"MAIN_APARTMENT","order":1,"parentId":0,"scrollX":832,"scrollY":598},
+{"id":2,"expanded":false,"name":"TEST_MAP1 - Mould","order":2,"parentId":0,"scrollX":450.6666666666667,"scrollY":608.6666666666666},
 {"id":3,"expanded":false,"name":"TEST_MAP10","order":11,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":4,"expanded":false,"name":"TEST_MAP2 - Basement","order":3,"parentId":0,"scrollX":507,"scrollY":684.75},
+{"id":4,"expanded":false,"name":"TEST_MAP2 - Basement","order":3,"parentId":0,"scrollX":450.6666666666667,"scrollY":608.6666666666666},
 {"id":5,"expanded":false,"name":"TEST_MAP3","order":4,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":false,"name":"TEST_MAP4","order":5,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":7,"expanded":false,"name":"TEST_MAP5","order":6,"parentId":0,"scrollX":819,"scrollY":461},
