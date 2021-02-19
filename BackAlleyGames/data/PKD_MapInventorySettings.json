@@ -15,9 +15,9 @@
     "icon": "inventoryIcon",
     "iconMarginX": 20,
     "iconMarginY": 20,
-    "categoryButtonsMarginX": 73,
+    "categoryButtonsMarginX": 80,
     "categoryButtonsMarginY": 17,
-    "categoryButtonMarginBetween": 26,
+    "categoryButtonMarginBetween": 50,
     "categoryButtonImg": "inventoryCategoryBtn_00",
     "categoryButtonHoverImg": "inventoryCategoryBtn_01",
     "categoryButtonSelectedImg": "inventoryCategoryBtn_03",
@@ -74,12 +74,12 @@
         "fontItalic": false
     },
     "cellEquipmentSymbol": "E",
-    "goldIcon": "inventoryGoldIcon",
-    "goldIconPosition": [26, 290],
+    "goldIcon": null,
+    "goldIconPosition": null,
     "goldText": {
         "textBoxWidth": 80,
         "textBoxHeight": 22,
-        "visible": true,
+        "visible": false,
         "marginX": 48,
         "marginY": 290,
         "position": "left",
@@ -134,7 +134,7 @@
             "fontSize": 16,
             "fontItalic": false
         },
-        "goldIconPosition": [248, 2],
+        "goldIconPosition": null,
         "itemNameText": {
             "textBoxWidth": 160,
             "textBoxHeight": 24,
@@ -274,8 +274,8 @@
     },
     "availableCategories": {
         "items": true,
-        "weapons": true,
-        "armors": true,
+        "weapons": false,
+        "armors": false,
         "keyItems": true
     },
     "screenOutSafeMargin": 10,
