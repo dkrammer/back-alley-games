@@ -1,4 +1,4 @@
-//=============================================================================
+﻿//=============================================================================
 // AltMenuScreen.js
 //=============================================================================
 
@@ -23,7 +23,7 @@
         _Scene_Menu_create.call(this);
         this._statusWindow.x = 0;
         this._statusWindow.y = this._commandWindow.height;
-        this._goldWindow.x = Graphics.boxWidth - this._goldWindow.width;
+	this._goldWindow.x = Graphics.boxWidth - this._goldWindow.width;
     };
 
     Window_MenuCommand.prototype.windowWidth = function() {
