@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"MAIN_APARTMENT","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":2,"expanded":false,"name":"TEST_MAP1 - Mould","order":2,"parentId":0,"scrollX":630,"scrollY":608.6666666666666},
-{"id":3,"expanded":false,"name":"TEST_MAP10 - VS Front Room","order":11,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":3,"expanded":false,"name":"TEST_MAP10 - VS Front Room","order":11,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"TEST_MAP2 - Basement","order":3,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":5,"expanded":false,"name":"TEST_MAP3 - Hallway","order":4,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":6,"expanded":false,"name":"TEST_MAP4 - Hall Entry","order":5,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":false,"name":"TEST_MAP6 - CollectiblesScreen","order":7,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":9,"expanded":false,"name":"TEST_MAP7 - Parallax Test","order":8,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":10,"expanded":true,"name":"TEST_MAP8 - Hall Exit","order":9,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":11,"expanded":true,"name":"TEST_MAP9 - VS Back Room","order":10,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666}
+{"id":11,"expanded":true,"name":"TEST_MAP9 - VS Back Room","order":10,"parentId":0,"scrollX":832,"scrollY":640}
 ]
