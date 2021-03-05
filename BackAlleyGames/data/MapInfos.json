@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":false,"name":"TEST_MAP6 - CollectiblesScreen","order":7,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":9,"expanded":false,"name":"TEST_MAP7 - Parallax Test","order":8,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":10,"expanded":true,"name":"TEST_MAP8 - Hall Exit","order":9,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":11,"expanded":true,"name":"TEST_MAP9 - VS Back Room","order":10,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666}
+{"id":11,"expanded":true,"name":"TEST_MAP9 - VS Back Room","order":10,"parentId":0,"scrollX":811,"scrollY":499}
 ]
