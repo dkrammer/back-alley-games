@@ -21,7 +21,7 @@ const checkViews = function(givenEvent) {
 	const diffY = Math.abs(distY)
 
 	let directionNeeded = 0
-	if (player.x === event.x && player.y === event.y) {
+	if (diffX < 0.35 && diffY < 0.35) {
 		// do the mold
 		const keyB = [$gameMap.mapId(), eventId, 'B']
 		$gameSelfSwitches.setValue(keyB, true)
