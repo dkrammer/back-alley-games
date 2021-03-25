@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"CharacterSprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"sara","traits":[],"initialLevel":1,"maxLevel":1,"name":"Sara","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"CharacterSprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":1,"name":"Young Sara","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"CharacterSprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Test","traits":[],"initialLevel":1,"maxLevel":1,"name":"Sara","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"CharacterSprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Test","traits":[],"initialLevel":1,"maxLevel":1,"name":"Young Sara","nickname":"","note":"","profile":""}
 ]
