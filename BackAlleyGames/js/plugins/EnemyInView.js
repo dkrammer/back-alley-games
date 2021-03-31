@@ -50,3 +50,40 @@ const checkViews = function(givenEvent) {
 		$gameSelfSwitches.setValue(keyA, true)
 	}
 };
+
+const randShadow = function () {
+	const r = Math.floor(Math.random() * 10);
+	const se = {pan: 0, pitch: 100, volume: 90}
+	switch (r) {
+		case 0:
+		se.name = 'shadow 0'
+		break
+		case 1:
+		se.name = 'shadow 1'
+		break
+		case 2:
+		se.name = 'shadow 2'
+		break
+		case 3:
+		se.name = 'shadow 3'
+		break
+		case 4:
+		se.name = 'shadow 4'
+		break
+		case 5:
+		se.name = 'shadow 5'
+		break
+		case 6:
+		se.name = 'shadow 6'
+		break
+		case 7:
+		se.name = 'shadow 7'
+		break
+		case 8:
+		se.name = 'shadow 8'
+		break
+		default:
+		se.name = 'shadow 9'
+	}
+	AudioManager.playSe(se)
+};
