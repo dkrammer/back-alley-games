@@ -1887,8 +1887,8 @@ Window_ItemCategory.prototype.update = function() {
 
 Window_ItemCategory.prototype.makeCommandList = function() {
     this.addCommand(TextManager.item,    'item');
-    this.addCommand(TextManager.weapon,  'weapon');
-    this.addCommand(TextManager.armor,   'armor');
+    //this.addCommand(TextManager.weapon,  'weapon');
+    //this.addCommand(TextManager.armor,   'armor');
     this.addCommand(TextManager.keyItem, 'keyItem');
 };
 
@@ -2672,7 +2672,7 @@ Window_Options.prototype.makeCommandList = function() {
 
 Window_Options.prototype.addGeneralOptions = function() {
     this.addCommand(TextManager.alwaysDash, 'alwaysDash');
-    this.addCommand(TextManager.commandRemember, 'commandRemember');
+    //this.addCommand(TextManager.commandRemember, 'commandRemember');
 };
 
 Window_Options.prototype.addVolumeOptions = function() {
