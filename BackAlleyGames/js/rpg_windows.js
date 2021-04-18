@@ -4623,7 +4623,7 @@ Window_ScrollText.prototype.updateMessage = function() {
 };
 
 Window_ScrollText.prototype.scrollSpeed = function() {
-    var speed = $gameMessage.scrollSpeed() / 2;
+    var speed = $gameMessage.scrollSpeed() / 4;
     if (this.isFastForward()) {
         speed *= this.fastForwardRate();
     }
