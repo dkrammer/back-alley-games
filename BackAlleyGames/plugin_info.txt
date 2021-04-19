@@ -1,14 +1,21 @@
-OrangeOverlay.js: https://www.dropbox.com/s/p637j9gnbkqsirl/OrangeOverlay.js?dl=0
+Altimit Movement:	https://eclass.srv.ualberta.ca/pluginfile.php/6771664/mod_assign/intro/AltimitMovement.js
 
-Tsukitsune_animatedOverlayAddon.js: https://www.dropbox.com/s/ehjuzc7zos8b3tj/Tsukitsune_animatedOverlayAddon.js?dl=0
+Community_Basic: 	RPG Maker MV
 
-Map Inventory: https://forums.rpgmakerweb.com/index.php?threads/map-inventory-mz-mv-visual-grid-inventory.119167/
-		    https://kdworkshop.net/plugins/map-inventory/
+ConditionalBranch+:	https://github.com/mjshi/RPGMakerRepo
 
-Altimit Movement: https://eclass.srv.ualberta.ca/pluginfile.php/6771664/mod_assign/intro/AltimitMovement.js
+CTB_SaveEx:		https://drive.google.com/file/d/1nJo3snRATxOReKIfyPT0_ZPh701lVsFs/view
 
-OrangeHud: https://forums.rpgmakerweb.com/index.php?threads/orange-hud.47186/
+MBS_MapZoom:		https://forums.rpgmakerweb.com/index.php?threads/mbs-map-zoom.48267/
 
-TerraxLighting: https://forums.rpgmakerweb.com/index.php?threads/terrax-lighting-system.49339/
+RemoveGoldScreen: 	
 
-CTB_SavEx: https://drive.google.com/file/d/1nJo3snRATxOReKIfyPT0_ZPh701lVsFs/view
+SRD_SuperToolsEngine:	http://sumrndm.site/
+SRD_AltMenuScreen_Icons
+
+TDDP_MouseSystemEx:	https://github.com/TorD/TDDP-Repo
+
+Terrax_Lighting:	https://forums.rpgmakerweb.com/index.php?threads/terrax-lighting-system.49339/
+
+YEP_CoreEngine:		http://www.yanfly.moe/wiki/Category:Yanfly_Engine_Plugins
+YEP_MessageCore
